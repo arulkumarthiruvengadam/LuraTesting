@@ -27,3 +27,4 @@ public static void main(String[] args) {
 		System.out.println(name1); 
 		}
 }
+/*file output was wrong*/
